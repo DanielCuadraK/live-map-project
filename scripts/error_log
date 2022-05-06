@@ -1,0 +1,31 @@
+[29-Sep-2020 04:46:40 UTC] PHP Warning:  SQLite3::query(): Unable to prepare statement: 1, no such table: vesselTripLog in /home/cuadr3ww/public_html/danielcuadra.mx/web/world-direct-shipping/scripts/vesselTripLog.php on line 27
+[29-Sep-2020 04:46:40 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetchArray() on boolean in /home/cuadr3ww/public_html/danielcuadra.mx/web/world-direct-shipping/scripts/vesselTripLog.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/cuadr3ww/public_html/danielcuadra.mx/web/world-direct-shipping/scripts/vesselTripLog.php on line 35
+[29-Sep-2020 04:46:40 UTC] PHP Warning:  SQLite3::query(): Unable to prepare statement: 1, no such table: vesselTripLog in /home/cuadr3ww/public_html/danielcuadra.mx/web/world-direct-shipping/scripts/vesselTripLog.php on line 27
+[29-Sep-2020 04:46:40 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetchArray() on boolean in /home/cuadr3ww/public_html/danielcuadra.mx/web/world-direct-shipping/scripts/vesselTripLog.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/cuadr3ww/public_html/danielcuadra.mx/web/world-direct-shipping/scripts/vesselTripLog.php on line 35
+[29-Sep-2020 04:46:40 UTC] PHP Warning:  SQLite3::query(): Unable to prepare statement: 1, no such table: vesselTripLog in /home/cuadr3ww/public_html/danielcuadra.mx/web/world-direct-shipping/scripts/vesselTripLog.php on line 27
+[29-Sep-2020 04:46:40 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetchArray() on boolean in /home/cuadr3ww/public_html/danielcuadra.mx/web/world-direct-shipping/scripts/vesselTripLog.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/cuadr3ww/public_html/danielcuadra.mx/web/world-direct-shipping/scripts/vesselTripLog.php on line 35
+[02-Nov-2020 16:20:13 UTC] PHP Warning:  require_once(templates.php): failed to open stream: No such file or directory in /home/cuadr3ww/public_html/danielcuadra.mx/web/world-direct-shipping/scripts/sendRateRequest.php on line 72
+[02-Nov-2020 16:20:13 UTC] PHP Fatal error:  require_once(): Failed opening required 'templates.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/cuadr3ww/public_html/danielcuadra.mx/web/world-direct-shipping/scripts/sendRateRequest.php on line 72
+[02-Nov-2020 16:53:47 UTC] PHP Warning:  require_once(templates.php): failed to open stream: No such file or directory in /home/cuadr3ww/public_html/danielcuadra.mx/web/world-direct-shipping/scripts/sendRateRequest.php on line 73
+[02-Nov-2020 16:53:47 UTC] PHP Fatal error:  require_once(): Failed opening required 'templates.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/cuadr3ww/public_html/danielcuadra.mx/web/world-direct-shipping/scripts/sendRateRequest.php on line 73
+[02-Nov-2020 16:55:30 UTC] PHP Fatal error:  Uncaught Error: Undefined constant 'n' in /home/cuadr3ww/public_html/danielcuadra.mx/web/world-direct-shipping/scripts/sendRateRequest.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/cuadr3ww/public_html/danielcuadra.mx/web/world-direct-shipping/scripts/sendRateRequest.php on line 26
+[02-Nov-2020 17:00:27 UTC] PHP Fatal error:  Uncaught Error: Undefined constant 'n' in /home/cuadr3ww/public_html/danielcuadra.mx/web/world-direct-shipping/scripts/sendRateRequest.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/cuadr3ww/public_html/danielcuadra.mx/web/world-direct-shipping/scripts/sendRateRequest.php on line 26
+[02-Nov-2020 17:00:34 UTC] PHP Fatal error:  Uncaught Error: Undefined constant 'n' in /home/cuadr3ww/public_html/danielcuadra.mx/web/world-direct-shipping/scripts/sendRateRequest.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/cuadr3ww/public_html/danielcuadra.mx/web/world-direct-shipping/scripts/sendRateRequest.php on line 26

@@ -1,0 +1,55 @@
+Main Folder
+	->contacts.php
+		Webpage displaying a grid with contact information from all the company members
+	->container-tracking.php
+		Webpage that connects with a client service for displaying tracking information from a container
+	->equipment.php
+		Webpage displaying a 360° interactive model of the type of cargo containers from the company using 360ImageRotate.js library
+	->index.php
+		Webpage containing general info about the company
+	->rates.php
+		Webpage containing a form for a rate request to be sent
+	->templates.php
+		Script containing main elements to be used across all webpage, such as header and footer
+	->vesselControlView.php
+		Webpage for managing which vessels are shown on the map
+	->vessel-tracking.php
+		Webpage for displaying an interactive map to show real time location for the vessels owned by the client using Leaflet.js library
+
+	Scripts
+		->APIRequest.php
+			Script containing all data for consuming vendor API for requesting real time location for the vessels
+		->connection.php
+			Script containing configuration data for database connection
+		->getData.php
+			Script containing all the functionality to get data from database to be used by the map
+		->getSchedule.php
+			Script that fetchs an excel file to be used for displaying a table using SimpleXLSX.php library
+		->mailConfig.php
+			Script containing data for mail service configuration
+		->sendRateRequest.php
+			Script containing the code to send email with the rate request form
+		->updateDatabaseScript.php
+			Script containing all the functionality to insert and update data pulled from vendor API containing vessels location
+		->vesselControl.php
+			Script containing CRUD functionality for vessels control
+	assets
+		->css
+			Folder containing css files
+		->icons
+			Folder containing icon files
+		->img
+			Folder containing image files
+		->js
+			Folder containing custom javascript
+		libraries
+			->360ImageRotate
+				Folder containing 360ImageRotate.js library used for rotating 3D models using a sequence of images
+			->bootstrap
+				Folder containing bootstrap library
+			->jquery
+				Folder containing jquery library
+			->leaflet
+				Folder containing Leaflet.js library used to display interactive maps
+		video
+			Folder containing video files
